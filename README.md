@@ -92,13 +92,3 @@ A clean and structured enterprise .NET Core application built with clean archite
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
----
-
-## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2338b2ac" width="22" height="22" align="center" /> GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mertmnvv&show_icons=true&theme=nord&count_private=true" alt="Mert's GitHub stats" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mertmnvv&layout=compact&theme=nord" alt="Top Langs" /><br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertmnvv&theme=nord" alt="GitHub Streak" />
-</div>
