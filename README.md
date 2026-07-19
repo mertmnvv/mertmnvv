@@ -46,11 +46,6 @@ A social study companion platform designed for national university entrance exam
 - **Tech Stack:** 
   `Next.js` `React` `Tailwind CSS` `Firebase (Firestore, Authentication, Realtime)` `Flutter (Mobile Version)`
 
-### <img src="https://api.iconify.design/lucide:building-2.svg?color=%23ef4444" width="20" height="20" align="center" /> [CaddeLocale](https://github.com/mertmnvv/CaddeLocale) — Clean Architecture Backend
-A clean and structured enterprise .NET Core application built with clean architecture standards.
-- **Architecture:** Clean Architecture separation (Core, Application, Infrastructure, Web/API).
-- **Tech Stack:** 
-  `C#` `.NET Core` `Clean Architecture`
 
 ---
 
