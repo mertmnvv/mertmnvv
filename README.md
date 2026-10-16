@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.mertmanav.com.tr"><img src="https://img.shields.io/badge/🌐_Portfolio-0EA5E9?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mert-manav/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge📍-Istanbul%2C%20Turkey-F97316?style=for-the-badge" alt="Istanbul, Turkey" />
+  <img src="https://img.shields.io/badge/Location-Istanbul%2C%20Turkey-F97316?style=for-the-badge&logo=google-maps&logoColor=white" alt="Istanbul, Turkey" />
 </p>
 
 ---
